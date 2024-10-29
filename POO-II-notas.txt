@@ -1,3 +1,14 @@
-***********16:36 2/10/2024***************
-- jdk 17
-- ctrl + Shift + L -> atajos del teclado
+IMPORTANTE
+
+- borrar las credenciales de GitHub
+
+git config --global --unset user.name
+git config --global --unset user.email
+
+
+git config --global user.name “xlisden”
+git config --global user.email “belen140904.@gmail.com”
+
+---------------------------
+properties -> project faces -> DWM -> 5.0 -> Java -> 17
+---------------------------
