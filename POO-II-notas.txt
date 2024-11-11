@@ -5,9 +5,9 @@ IMPORTANTE
 git config --global --unset user.name
 git config --global --unset user.email
 
+git config --global user.name "xlisden"
+git config --global user.email "belen140904@gmail.com"
 
-git config --global user.name “xlisden”
-git config --global user.email “belen140904.@gmail.com”
 
 ---------------------------
 properties -> project faces -> DWM -> 5.0 -> Java -> 17
@@ -20,3 +20,12 @@ properties -> project faces -> DWM -> 5.0 -> Java -> 17
 - pegar assets en webapp
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 - acordeon,navbar
+
+****16:12 11/11/2024****
+@Include Cabecera.jsp
+<% include file = '/cabecera.jsp'%>
+- La pag. se divide en columnas
+
+bg-dark"
+" style="background-color: #1f1f1e;"
+si un valor no esta vacio que aparezca al momento de enviar
