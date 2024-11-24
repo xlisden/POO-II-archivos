@@ -15,7 +15,7 @@ properties -> project faces -> DWM -> 5.0 -> Java -> 17
 - alt + shift + r -> para renombrar
 ---------------------------
 
-*************15:08 30/10/2024******************
+*****15:08 30/10/2024*****
 - bootstrap 4.3.1
 - pegar assets en webapp
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
@@ -24,8 +24,8 @@ properties -> project faces -> DWM -> 5.0 -> Java -> 17
 ****16:12 11/11/2024****
 @Include Cabecera.jsp
 <% include file = '/cabecera.jsp'%>
-- La pag. se divide en columnas
+- La pág. se divide en columnas
 
 bg-dark"
 " style="background-color: #1f1f1e;"
-si un valor no esta vacio que aparezca al momento de enviar
+si un valor no esta vacío que aparezca al momento de enviar
