@@ -6,12 +6,10 @@ git config --global --unset user.name
 git config --global --unset user.email
 
 git config --global user.name "xlisden"
-git config --global user.email "belen140904@gmail.com"
-
+git config --global user.email "belen140904@gmail.com"
 
 ---------------------------
 properties -> project faces -> DWM -> 5.0 -> Java -> 17
-
 - alt + shift + r -> para renombrar
 ---------------------------
 
@@ -29,3 +27,14 @@ properties -> project faces -> DWM -> 5.0 -> Java -> 17
 bg-dark"
 " style="background-color: #1f1f1e;"
 si un valor no esta vacío que aparezca al momento de enviar
+
+
+**********17:07 25/11/2024**********
+- spring tools 4
+- spring starter proyect
+- no es necesario utilizar el RequestDispatcher()
+- server:port=8081
+
+*************18:04 2/12/2024***************
+- request http://localhost:8080/MetodosController/Metodo3?nombre=cracksito
+- path
