@@ -38,3 +38,27 @@ si un valor no esta vacío que aparezca al momento de enviar
 *************18:04 2/12/2024***************
 - request http://localhost:8080/MetodosController/Metodo3?nombre=cracksito
 - path
+
+***********15:16 4/12/2024*************
+/MetodosController/Metodo2
+- post usado para guardar datos de los formularios
+- th:action="@{/PostController/form}" - primero captura la url base
+- th:field="*{nombre}" - el *, usado para ya no poner, persona.nombre
+/PostController/form
+
+FORMAS DE REDIRECCIONES
+getmmaping/
+redrect:/ejemplo/login
+
+MENSAJES PERSONALIZABLES
+aunque es trabajoso 
+https://acodigo.blogspot.com/2017/03/spring-i18n-multiples-lenguajes.html
+
+PARA HACER FORMULARIO SIN BOOSTRAP 
+https://acodigo.blogspot.com/2017/04/spring-mvc-thymeleaf-formularios.html
+
+PARA HACER FORUMULARIO CON BOOSTRAP
+https://getbootstrap.com/docs/5.3/forms/layout/#gutters
+
+@autowired, busca componentes para enlazarlos
+@quialifier, busca un compoenente especifico
