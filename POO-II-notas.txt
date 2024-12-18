@@ -77,3 +77,6 @@ SOLUCI[ON AL PUERTO 3306
 - https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/taskkill
 - https://www.youtube.com/watch?v=Qec_mutOelM
 
+**********16:01 18/12/2024********************
+#203673
+32, 54, 115
