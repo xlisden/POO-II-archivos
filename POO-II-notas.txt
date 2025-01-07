@@ -80,3 +80,34 @@ SOLUCI[ON AL PUERTO 3306
 **********16:01 18/12/2024********************
 #203673
 32, 54, 115
+
+
+************16:03 6/01/2025************
+- centrarse en implementan 3 funcionalidades
+- crud completo es una funcionalidad
+- los cu de negocio, es como se divide el menu
+- solo un proyecto, especificar jdk, versiones
+- solamente github
+- especificar que campos se validan
+
+- LUNES: si falta documentacion, presentacion de proyecto
+- SEMANA 17: presentacion del proyecto y el miercoles el examen final 
+
+
+
+
+
+PREGUNTAS
+- ¿puedo usar el swagger para probar los endpoints? y ya no implementar la vista
+
+1. Gestion de usuarios: asesores, jurados, y el jefe de la oficina de grados y titulos (creacion y edicion)
+2. Gestion de expedientes: crear expedientes, fusionar expedientes para una sustentacion en pareja
+3. Gestion de documentos: datos del documento, generar documento (en word), edicion del documento
+4. Visualizar documentos: mostrar todos los documentos, cambiar de estado a los pendientes
+5. Gestion de acceso: username, contraseña, y restriccion de visualizacion de documentos
+6. Gestión de reportes estadísticos de los jurados: gráficos estadísticos 
+
+MANUAL DE INSTALACION
+- instalacion de mysql
+- credenciales de sql
+- script de la database
