@@ -65,17 +65,23 @@ https://getbootstrap.com/docs/5.3/forms/layout/#gutters
 
 
 ***********15:19 11/12/2024****************
-- JPA es el modelo de referencia, o el estandar.
-- Eager: traer todo de una vez (contrario al lazy load)
-- containers en boostrap https://www.google.com/url?sa=i&url=https%3A%2F%2Fdesignmodo.com%2Fbootstrap-5-layout%2F&psig=AOvVaw03u4L-TxyDNXtt68MNIyUY&ust=1734036800838000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCLjDyNHMoIoDFQAAAAAdAAAAABAE
-- La principal diferencia entre el padding y el margin de CSS es que el padding es el espacio entre el contenido y el borde del elemento (dentro del propio elemento), mientras que el margin es el espacio alrededor del borde de un elemento.
+* JPA es el modelo de referencia, o el estandar.
+
+* Eager: traer todo de una vez (contrario al lazy load)
+
+* containers en boostrap https://designmodo.com/bootstrap-5-layout/
+
+* La principal diferencia entre el padding y el margin de CSS es que el padding es el espacio entre el contenido y el borde del elemento (dentro del propio elemento), mientras que el margin es el espacio alrededor del borde de un elemento.
 - row curiosidades en boostrap  https://designmodo.com/bootstrap-5-layout/
 
 SOLUCI[ON AL PUERTO 3306
-- https://platzi.com/tutoriales/1566-fundamentos-db/9001-solucionar-error-specified-port-3306-is-already-in-use-when-installing-mysql/
-- https://www.paddingleft.com/2018/05/03/Find-process-listening-port-on-Windows/
-- https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/taskkill
-- https://www.youtube.com/watch?v=Qec_mutOelM
+* https://platzi.com/tutoriales/1566-fundamentos-db/9001-solucionar-error-specified-port-3306-is-already-in-use-when-installing-mysql/
+
+* https://www.paddingleft.com/2018/05/03/Find-process-listening-port-on-Windows/
+
+* https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/taskkill
+
+* https://www.youtube.com/watch?v=Qec_mutOelM
 
 **********16:01 18/12/2024********************
 #203673
