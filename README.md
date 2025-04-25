@@ -1,2 +1,3 @@
 - https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/http/HttpStatus.html
 - https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-controller/ann-methods/responseentity.html
+- https://www.geeksforgeeks.org/how-to-use-spring-responseentity-to-manipulate-the-http-response/
